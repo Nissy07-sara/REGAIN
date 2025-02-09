@@ -16,12 +16,11 @@ CSS: Styling and UI enhancements
 JavaScript: Dynamic behavior and interactivity
 
 **Setup & Installation Instructions:**
+
 Clone the repository or download the source files.
 > git clone <repository-url>
-
 Navigate to the project folder.
 > cd regain-mental-health-assessment
-
 Open index.html in a web browser to access the application.
 No additional setup or dependencies are required.
 
