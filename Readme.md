@@ -22,6 +22,7 @@ Clone the repository or download the source files.
 
 Navigate to the project folder.
 > cd regain-mental-health-assessment
+
 Open index.html in a web browser to access the application.
 No additional setup or dependencies are required.
 
