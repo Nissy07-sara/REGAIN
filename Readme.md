@@ -30,5 +30,7 @@ No additional setup or dependencies are required.
 **ASWINI KRISHNA S** - UI designs
 **AAJAL KRISHNAN** - Documentation
 
+**PROJECT LINK:** https://nissy07-sara.github.io/REGAIN/
+
 
 [Team Member 3] - Content & Documentation
