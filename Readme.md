@@ -27,11 +27,14 @@ Open index.html in a web browser to access the application.
 No additional setup or dependencies are required.
 
 **Team Members and Contribution Summary:**
+
 **NISSY SARA PRINCE** - Project Lead & developer
+
 **ASWINI KRISHNA S** - UI designs
+
 **AAJAL KRISHNAN** - Documentation
 
 **PROJECT LINK:** https://nissy07-sara.github.io/REGAIN/
 
 
-[Team Member 3] - Content & Documentation
+
